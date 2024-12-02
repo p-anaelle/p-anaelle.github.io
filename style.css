@@ -1,0 +1,41 @@
+h1{
+font-size: 30px;
+text-align: center;
+font-family: Arial, sans-serif;
+color: #7fb3d5
+}
+    
+p{
+font-size: 15px;
+text-align: left;
+font-family: Arial, sans-serif;
+color: #fdfefe
+}
+    
+body {
+background-color: #17202a;
+font-family: Arial, sans-serif;
+color: #fdfefe
+}
+
+a {
+outline: none;
+text-decoration: none;
+padding: 2px 1px 0;
+}      
+a:link {
+color: #1f618d;
+}
+a:visited {
+color: #a9cce3;
+}
+a:hover {
+border-bottom: 1px solid;
+}
+
+
+iframe {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
